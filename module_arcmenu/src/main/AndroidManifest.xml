@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.arc.menu">
+
+    <application>
+        <activity android:name=".ArcMenuActivity"/>
+    </application>
+</manifest>
